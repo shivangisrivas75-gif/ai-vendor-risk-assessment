@@ -1,0 +1,21 @@
+vendor_id,vendor_name,risk_score,risk_level,top_risk_area,recommendation,action_priority
+13,Vendor_13,86.0,High,data_privacy,"Review the data processing agreement. Check consent, retention and data-sharing controls.",Immediate review
+3,Vendor_03,82.0,High,regulatory,Map the vendor to applicable regulations. Request written compliance confirmations.,Immediate review
+10,Vendor_10,82.0,High,data_privacy,"Review the data processing agreement. Check consent, retention and data-sharing controls.",Immediate review
+18,Vendor_18,72.0,High,data_privacy,"Review the data processing agreement. Check consent, retention and data-sharing controls.",Immediate review
+12,Vendor_12,70.0,High,regulatory,Map the vendor to applicable regulations. Request written compliance confirmations.,Immediate review
+1,Vendor_01,69.0,High,third_party,Review the vendor's sub-processors. Add audit-rights and exit-plan clauses to the contract.,Immediate review
+17,Vendor_17,68.0,High,third_party,Review the vendor's sub-processors. Add audit-rights and exit-plan clauses to the contract.,Immediate review
+15,Vendor_15,67.0,High,regulatory,Map the vendor to applicable regulations. Request written compliance confirmations.,Immediate review
+9,Vendor_09,65.0,Medium,ai_bias,Request bias testing results and model documentation. Add human review for high-impact decisions.,Review this quarter
+2,Vendor_02,63.99999999999999,Medium,data_privacy,"Review the data processing agreement. Check consent, retention and data-sharing controls.",Review this quarter
+11,Vendor_11,62.000000000000014,Medium,data_privacy,"Review the data processing agreement. Check consent, retention and data-sharing controls.",Review this quarter
+4,Vendor_04,61.0,Medium,data_privacy,"Review the data processing agreement. Check consent, retention and data-sharing controls.",Review this quarter
+8,Vendor_08,56.99999999999999,Medium,security,Request security audit reports. Review access controls and incident response plan.,Review this quarter
+14,Vendor_14,55.0,Medium,security,Request security audit reports. Review access controls and incident response plan.,Review this quarter
+20,Vendor_20,54.99999999999999,Medium,data_privacy,"Review the data processing agreement. Check consent, retention and data-sharing controls.",Review this quarter
+19,Vendor_19,49.99999999999999,Low,security,Request security audit reports. Review access controls and incident response plan.,Routine monitoring
+5,Vendor_05,48.99999999999999,Low,data_privacy,"Review the data processing agreement. Check consent, retention and data-sharing controls.",Routine monitoring
+16,Vendor_16,46.99999999999999,Low,ai_bias,Request bias testing results and model documentation. Add human review for high-impact decisions.,Routine monitoring
+7,Vendor_07,44.99999999999999,Low,data_privacy,"Review the data processing agreement. Check consent, retention and data-sharing controls.",Routine monitoring
+6,Vendor_06,43.0,Low,regulatory,Map the vendor to applicable regulations. Request written compliance confirmations.,Routine monitoring
